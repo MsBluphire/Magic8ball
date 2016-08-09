@@ -1,5 +1,4 @@
-﻿alert("Hello"); //sanity check
-function figureIt()
+﻿function doIt()
 {
     //randomly pick phrase
     //display it
